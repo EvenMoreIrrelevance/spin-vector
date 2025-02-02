@@ -1,2 +1,2 @@
 # spin-vector
-persistent vector with support for insertion in the middle
+Persistent vectors with support for more random operations.
